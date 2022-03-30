@@ -1,14 +1,5 @@
 ### 𝘈𝘭𝘭 𝘪𝘯 𝘖𝘯𝘦 𝘏𝘢𝘤𝘬𝘪𝘯𝘨 𝘵𝘰𝘰𝘭 𝘍𝘰𝘳 𝘏𝘢𝘤𝘬𝘦𝘳𝘴
 
-![](https://img.shields.io/github/issues/MiChaelinzo/CyberPunkNetrunner)
-![](https://img.shields.io/github/forks/MiChaelinzo/CyberPunkNetrunner)
-![](https://img.shields.io/github/stars/MiChaelinzo/CyberPunkNetrunner)
-![](https://img.shields.io/github/license/MiChaelinzo/CyberPunkNetrunner)
-![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FMiChaelinzo%2FCyberPunkNetrunner)
-![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
-
-
 ## 𝘜𝘱𝘥𝘢𝘵𝘦 𝘈𝘷𝘢𝘪𝘭𝘢𝘣𝘭𝘦 🚀 
 - [𝘹] 𝘈𝘥𝘥𝘦𝘥 𝘕𝘦𝘸 𝘛𝘰𝘰𝘭𝘴 
 - [𝘹] 𝘍𝘪𝘹 𝘌𝘳𝘳𝘰𝘳𝘴
@@ -18,12 +9,6 @@
 ### 𝘐𝘯 𝘉𝘦𝘵𝘢 
 𝘛𝘩𝘪𝘴 𝘱𝘳𝘰𝘫𝘦𝘤𝘵 𝘴𝘵𝘪𝘭𝘭 𝘪𝘯 𝘉𝘌𝘛𝘈 𝘴𝘰 𝘺𝘰𝘶 𝘮𝘢𝘺 𝘧𝘢𝘤𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴,
 𝘗𝘭𝘦𝘢𝘴𝘦 𝘰𝘱𝘦𝘯 𝘢𝘯 𝘪𝘴𝘴𝘶𝘦 𝘴𝘰 𝘪'𝘭𝘭 𝘧𝘪𝘹 𝘵𝘩𝘦𝘮..!!
-
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG.PNG)
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG4.PNG)
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG1.PNG)
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG2.PNG)
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG3.PNG)
 
 # 𝘕𝘦𝘵𝘳𝘶𝘯𝘯𝘦𝘳 𝘔𝘦𝘯𝘶
 - 𝘈𝘯𝘰𝘯𝘚𝘶𝘳𝘧                  
@@ -168,16 +153,6 @@
 ### 𝘏𝘢𝘴𝘩 𝘊𝘳𝘢𝘤𝘬𝘪𝘯𝘨 𝘛𝘰𝘰𝘭
 - 𝘏𝘢𝘴𝘩 𝘉𝘶𝘴𝘵𝘦𝘳
 
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG.PNG)
-
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG4.PNG)
-
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG1.PNG)
-
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG2.PNG)
-
-![](https://github.com/MiChaelinzo/CyberPunkNetrunner/blob/master/images/IMG3.PNG)
-
 ## 𝘐𝘯𝘴𝘵𝘢𝘭𝘭𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘓𝘪𝘯𝘶𝘹 :
 
 #### 𝘛𝘩𝘪𝘴 𝘛𝘰𝘰𝘭 𝘔𝘶𝘴𝘵 𝘙𝘶𝘯 𝘈𝘴 𝘙𝘖𝘖𝘛 !!!
@@ -207,22 +182,3 @@
     𝘴𝘶𝘥𝘰 𝘕𝘦𝘵𝘳𝘶𝘯𝘯𝘦𝘳
 
  𝘈𝘧𝘵𝘦𝘳 𝘍𝘰𝘭𝘭𝘰𝘸𝘪𝘯𝘨 𝘈𝘭𝘭 𝘚𝘵𝘦𝘱𝘴 𝘑𝘶𝘴𝘵 𝘛𝘺𝘱𝘦 𝘐𝘯 𝘛𝘦𝘳𝘮𝘪𝘯𝘢𝘭 **𝘳𝘰𝘰𝘵@𝘬𝘢𝘭𝘪𝘓𝘪𝘯𝘶𝘹:~** **𝘕𝘦𝘵𝘳𝘶𝘯𝘯𝘦𝘳**
-#### 𝘛𝘩𝘢𝘯𝘬𝘴 𝘵𝘰 𝘰𝘳𝘪𝘨𝘪𝘯𝘢𝘭 𝘈𝘶𝘵𝘩𝘰𝘳 𝘰𝘧 𝘵𝘩𝘦 𝘵𝘰𝘰𝘭𝘴 𝘶𝘴𝘦𝘥 𝘪𝘯 𝘕𝘦𝘵𝘳𝘶𝘯𝘯𝘦𝘳
-
-## [𝘔𝘐𝘛 𝘓𝘪𝘤𝘦𝘯𝘴𝘦](https://raw/githubusercontent.com/MiChaelinzo/CyberPunkNetrunner/master/LICENSE)
-<𝘪𝘮𝘨 𝘴𝘳𝘤 ="𝘩𝘵𝘵𝘱𝘴://𝘪𝘮𝘨.𝘴𝘩𝘪𝘦𝘭𝘥𝘴.𝘪𝘰/𝘣𝘢𝘥𝘨𝘦/𝘐𝘮𝘱𝘰𝘳𝘵𝘢𝘯𝘵-𝘯𝘰𝘵𝘪𝘤𝘦-𝘳𝘦𝘥" />
-<𝘩4>𝘗𝘭𝘦𝘢𝘴𝘦 𝘋𝘰𝘯'𝘵 𝘜𝘴𝘦 𝘧𝘰𝘳 𝘪𝘭𝘭𝘦𝘨𝘢𝘭 𝘈𝘤𝘵𝘪𝘷𝘪𝘵𝘺
-
-## 𝘍𝘰𝘭𝘭𝘰𝘸 ➤ [𝘎𝘪𝘵𝘏𝘶𝘣](https://github.com/Michaelinzo) [𝘛𝘸𝘪𝘵𝘵𝘦𝘳](https://twitter.com/Michaelinzo) [𝘐𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮](https://instagram.com/llmichaelinzoll21/) [𝘐𝘯𝘷𝘦𝘴𝘵𝘪𝘯𝘨 𝘐𝘯𝘴𝘵𝘢𝘨𝘳𝘢𝘮](https://instagram.com/fxcryptomaster)
-
-
-## 𝘊𝘩𝘦𝘤𝘬𝘰𝘶𝘵 ➤ [Website](https://beacons.ai/michaelinzo)
-
-
-
-#### 𝘊𝘰𝘯𝘵𝘢𝘤𝘵 𝘝𝘪𝘢 𝘛𝘸𝘪𝘵𝘵𝘦𝘳 or Instagram 𝘰𝘳 𝘌𝘮𝘢𝘪𝘭
-
-𝘍𝘦𝘦𝘭 𝘧𝘳𝘦𝘦 𝘵𝘰 𝘮𝘢𝘬𝘦 𝘢 𝘱𝘶𝘭𝘭 𝘳𝘦𝘲𝘶𝘦𝘴𝘵 𝘪𝘧 𝘺𝘰𝘶 𝘧𝘦𝘦𝘭 𝘵𝘩𝘢𝘵 𝘺𝘰𝘶 𝘩𝘢𝘷𝘦 𝘪𝘮𝘱𝘳𝘰𝘷𝘦 𝘵𝘩𝘪𝘴 𝘵𝘰𝘰𝘭 
-
-#### 𝘋𝘰𝘯'𝘵 𝘍𝘰𝘳𝘨𝘰𝘵 𝘵𝘰 𝘴𝘩𝘢𝘳𝘦 𝘸𝘪𝘵𝘩 𝘠𝘰𝘶𝘳 𝘍𝘳𝘪𝘦𝘯𝘥𝘴 
-#### 𝘛𝘩𝘢𝘯𝘬 𝘺𝘰𝘶..!!
